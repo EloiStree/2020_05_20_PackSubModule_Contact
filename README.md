@@ -1,11 +1,15 @@
 # Hello Eloi Experiments
-[![Profile Picture](EloiStree.png)](https://github.com/EloiStree)
+[![Profile Picture](EloiStree.png)](https://github.com/EloiStree)  
+
 Hello, my name is Stree Eloi.  
 If you read this file, it means that you are using one of my code in Unity.  
 Please Enjoy ☺.  
+
 ## General Info
-The code is free and open source, if it helps you:
-_You can support my work by offering a me coffee or subscribing to my patreon_ 😊
+
+The code is free and open source, if it helps you:  
+_You can support my work by offering a me coffee or subscribing to my patreon_ 😊  
+
 [![One time(Paypal)](https://gitlab.com/eloistree/2018_11_16_patreonpattern/raw/master/Icons/Donation/PayPal.png)](https://www.paypal.me/eloistree)
 [![Montly(Patreon)](https://gitlab.com/eloistree/2018_11_16_patreonpattern/raw/master/Icons/Donation/Patreon.png)](https://www.patreon.com/eloistree)
 [![Video  Log](https://gitlab.com/eloistree/2018_11_16_patreonpattern/raw/master/Icons/Menu/Video.png)](https://eloistree.page.link/videolog)
