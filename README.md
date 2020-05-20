@@ -17,7 +17,7 @@ _You can support my work by offering a me coffee or subscribing to my patreon_ ð
 [![Download Demo](https://gitlab.com/eloistree/2018_11_16_patreonpattern/raw/master/Icons/Menu/Games.png)](https://eloistree.page.link/game)
 
 ## Toolbox
-You can find the full range of my toolbox here:
+You can find the full range of my toolbox here:  
 https://eloistree.page.link/toolbox
 
 ### More info on how to access my assets
