@@ -9,10 +9,8 @@ Please Enjoy 👌.
 ## General Info
 
 The code is free and open source, if it helps you:  
-_You can support my work by offering a me coffee or subscribing to my patreon_ 😊  
-
-[![One time(Paypal)](https://gitlab.com/eloistree/2018_11_16_patreonpattern/raw/master/Icons/Donation/PayPal.png)](https://www.paypal.me/eloistree)
-[![Montly(Patreon)](https://gitlab.com/eloistree/2018_11_16_patreonpattern/raw/master/Icons/Donation/Patreon.png)](https://www.patreon.com/eloistree)
+_You can support my work by offering a me coffee_ 😊  
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E21QCY5)
 [![Video  Log](https://gitlab.com/eloistree/2018_11_16_patreonpattern/raw/master/Icons/Menu/Video.png)](https://eloistree.page.link/videolog)
 [![Discord Link](https://gitlab.com/eloistree/2018_11_16_patreonpattern/raw/master/Icons/Menu/Talk.png)](https://eloistree.page.link/discord)
 [![Download Demo](https://gitlab.com/eloistree/2018_11_16_patreonpattern/raw/master/Icons/Menu/Games.png)](https://eloistree.page.link/game)
